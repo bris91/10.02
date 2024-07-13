@@ -31,7 +31,7 @@
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>haproxy.cfg_for_tash_1</summary>
 
 ### haproxy.cfg1
 
@@ -119,7 +119,7 @@ HAproxy должен балансировать только тот http-тра�
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>haproxy.cfg_for_tash_2</summary>
 
 ### haproxy.cfg1
 ```
