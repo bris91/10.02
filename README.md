@@ -31,7 +31,7 @@
 
 <details>
 
-<summary>haproxy.cfg_for_tash_1</summary>
+<summary>haproxy.cfg_for_task_1</summary>
 
 ### haproxy.cfg1
 
@@ -107,6 +107,11 @@ listen web_tcp
 
 
 
+
+
+
+
+
 ![alt text](https://github.com/bris91/10.02/blob/e4558af2e48dde5fea0d6ec26f38ed86286d73d5/Screenshot%20from%202024-07-13%2015-32-05.png)
 
 
@@ -119,7 +124,7 @@ HAproxy должен балансировать только тот http-тра�
 
 <details>
 
-<summary>haproxy.cfg_for_tash_2</summary>
+<summary>haproxy.cfg_for_task_2</summary>
 
 ### haproxy.cfg1
 ```
@@ -191,6 +196,11 @@ backend web_servers    # секция бэкенд
 
 ```
 </details>
+
+
+
+
+
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 2](ссылка на скриншот 2)`
